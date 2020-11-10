@@ -1,0 +1,45 @@
+#top{
+    width:800px;
+    border:2px solid #ffffff;
+
+}
+#box{
+    width:800px;
+    background-color: #f5f4f5;
+    box-shadow: 1px 1px 5px #aaaaaa;
+    border-radius: 5px;
+}
+#bot{
+    box-shadow:1px 1px 5px #aaaaaa;
+
+}
+body{
+    margin-left:calc((100%-800)/2);
+
+    background-color: #f5f4f4;
+    width:100%;
+}
+.Ds{
+    float:left;
+    width:20%;
+    text-align: center;
+    border:1px solid #ffffff;
+    box-shadow: #f1f1f1;
+    padding:5px 5px 0px 5px;
+    margin:10px;
+
+}
+.Ds.p{
+    font-size:5px;
+}
+img{
+    width:150px;
+    height:150px;
+}
+
+.h4{
+    background-color: black;
+    color:white;
+    padding:20px;
+    font-size:10px;
+}
