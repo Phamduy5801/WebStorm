@@ -1,0 +1,60 @@
+.box{
+    float:left;
+    width:500px;
+    height: 500px;
+    margin-left: calc(50% - 250px);
+    background-color: #f5f8f7;
+
+}
+.title{
+    text-align: center;
+    padding:10px;
+    font-weight: 700;
+    margin:10px;
+
+}
+
+.bot{
+    width: 400px;
+    height:380px;
+    box-sizing: border-box;
+    padding:40px;
+    background-color: #ffffff;
+    margin-left: 50px;
+    line-height: 1.5;
+    box-shadow: #e7e7e7;
+
+
+}
+.name{
+    font-weight: 500;
+
+}
+.ip-text{
+    border: 1px solid #f3f4f6;
+    border-radius: 5%;
+    padding:5px;
+    margin-bottom: 10px;
+    height: 25px;
+
+}
+.ip-text1{
+    width:300px;
+    border:1px solid #f3f4f6;
+    margin-bottom: 10px;
+    height: 25px;
+}
+
+.but{
+
+    text-align: center;
+    background-color: #4268dd;
+    color:white;
+    width:300px;
+    height: 50px;
+    border-radius: 50px;
+
+}
+.end{
+    text-align: center;
+}
